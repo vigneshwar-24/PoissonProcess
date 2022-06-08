@@ -19,9 +19,7 @@ The Poisson process is one of the most widely-used counting processes. It is usu
  
 # Procedure :
 
-![image](https://user-images.githubusercontent.com/104613195/171325180-eaf80506-545c-4f35-878a-1e95aa0e81e3.png)
-
-
+![image](https://user-images.githubusercontent.com/104613195/172528169-f26bdf76-f357-4c48-b806-a0a80da21cac.png)
 
 # Program :
 
